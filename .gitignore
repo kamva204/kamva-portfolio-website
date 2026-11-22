@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep coursework submissions and large media out of the repo
+*.docx
+*.mp4
+*.zip
